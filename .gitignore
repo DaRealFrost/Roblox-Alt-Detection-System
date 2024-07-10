@@ -1,0 +1,17 @@
+# vscode 
+.vscode
+
+# Wally
+Packages
+wally.lock
+
+# Selene
+roblox.yml
+
+# Ignore Roblox Files
+*.rbxm
+*.rbxmx
+*.rbxl
+*.rbxlx
+*.rbxlx.lock
+*.rbxl.lock
