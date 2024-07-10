@@ -1,0 +1,126 @@
+return {
+    real = {
+        ['accountAge'] = {
+            ['Q1'] = 1738,
+            ['Q3'] = 2047,
+            ['max'] = 4021,
+            ['mean'] = 2467,
+            ['median'] = 2047,
+            ['min'] = 1738,
+            ['standardDeviation'] = 963.3008356686918,
+            ['total'] = 12335,
+        },
+        ['badgeCount'] = {
+            ['Q1'] = 607,
+            ['Q3'] = 1290,
+            ['max'] = 3099,
+            ['mean'] = 1509.6,
+            ['median'] = 1290,
+            ['min'] = 607,
+            ['standardDeviation'] = 972.4324141039315,
+            ['total'] = 7548,
+        },
+        ['followersCount'] = {
+            ['Q1'] = 3,
+            ['Q3'] = 121,
+            ['max'] = 207,
+            ['mean'] = 107.8,
+            ['median'] = 121,
+            ['min'] = 3,
+            ['standardDeviation'] = 88.59288910516464,
+            ['total'] = 539,
+        },
+        ['followingCount'] = {
+            ['Q1'] = 0,
+            ['Q3'] = 1,
+            ['max'] = 115,
+            ['mean'] = 24.6,
+            ['median'] = 1,
+            ['min'] = 0,
+            ['standardDeviation'] = 50.61916633055112,
+            ['total'] = 123,
+        },
+        ['friendsCount'] = {
+            ['Q1'] = 18,
+            ['Q3'] = 56,
+            ['max'] = 197,
+            ['mean'] = 97.59999999999999,
+            ['median'] = 56,
+            ['min'] = 18,
+            ['standardDeviation'] = 91.51120150014422,
+            ['total'] = 488,
+        },
+        ['groupCount'] = {
+            ['Q1'] = 4,
+            ['Q3'] = 46,
+            ['max'] = 96,
+            ['mean'] = 49.8,
+            ['median'] = 46,
+            ['min'] = 4,
+            ['standardDeviation'] = 44.34185381780964,
+            ['total'] = 249,
+        },
+    },
+    alt = {
+        ["accountAge"] = {
+           ["Q1"] = 143,
+           ["Q3"] = 976,
+           ["max"] = 4987,
+           ["mean"] = 1206.181818181818,
+           ["median"] = 976,
+           ["min"] = 73,
+           ["standardDeviation"] = 1400.843447226122,
+           ["total"] = 13268
+        },
+        ["badgeCount"] = {
+           ["Q1"] = 0,
+           ["Q3"] = 8,
+           ["max"] = 1103,
+           ["mean"] = 155.7272727272727,
+           ["median"] = 2,
+           ["min"] = 0,
+           ["standardDeviation"] = 358.3660393812703,
+           ["total"] = 1713
+        },
+        ["followersCount"] = {
+           ["Q1"] = 0,
+           ["Q3"] = 0,
+           ["max"] = 17,
+           ["mean"] = 2.181818181818182,
+           ["median"] = 0,
+           ["min"] = 0,
+           ["standardDeviation"] = 5.115040211341096,
+           ["total"] = 24
+        },
+        ["followingCount"] = {
+           ["Q1"] = 0,
+           ["Q3"] = 0,
+           ["max"] = 10,
+           ["mean"] = 1,
+           ["median"] = 0,
+           ["min"] = 0,
+           ["standardDeviation"] = 3,
+           ["total"] = 11
+        },
+        ["friendsCount"] = {
+           ["Q1"] = 0,
+           ["Q3"] = 2,
+           ["max"] = 185,
+           ["mean"] = 20.09090909090909,
+           ["median"] = 0,
+           ["min"] = 0,
+           ["standardDeviation"] = 55.2764950868894,
+           ["total"] = 221
+        },
+        ["groupCount"] = {
+           ["Q1"] = 0,
+           ["Q3"] = 0,
+           ["max"] = 51,
+           ["mean"] = 6,
+           ["median"] = 0,
+           ["min"] = 0,
+           ["standardDeviation"] = 15.4983870128475,
+           ["total"] = 66
+        }
+     }
+}
